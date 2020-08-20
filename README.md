@@ -7,5 +7,7 @@
 >attention_representation = self_attention(input)
 * 说明
 > input维度为[batch_size, max_length, k]
+* Ref
+> https://zhuanlan.zhihu.com/p/93397071
 
 
